@@ -6,7 +6,7 @@ const Header = () => {
     <header>
       <div className="header center">
         <picture>
-          <img src="./assets/logo.jpg"></img>
+          <img src="./assets/logo.png"></img>
         </picture>
 
         <nav>
