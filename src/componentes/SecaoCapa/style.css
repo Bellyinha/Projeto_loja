@@ -6,7 +6,7 @@
   font-style: normal;
 } */
 .secao-capa {
-  background-image: url('/public/assets/bann3.png');
+  background-image: url('/public/assets/ban4.png');
   height: 80vh;
   background-repeat: no-repeat;
   background-position: center;
@@ -27,7 +27,8 @@
   display: flex;
   flex-direction: column;
   gap: 20px;
-  max-width: 500px;
+  max-width: 400px;
+  margin-top: 400px;
 }
 
 .texto-capa p,
@@ -56,7 +57,7 @@
     justify-content: flex-start;
   }
   .texto-capa {
-    margin-top: 160px;
+    margin-top: 750px;
     max-width: 350px;
   }
 }
@@ -67,14 +68,18 @@
   }
 
   .texto-capa {
-    max-width: 300px;
+    max-width: 200px;
   }
 
   .texto-capa p {
-    font-size: 1rem;
+    font-size: 1.5rem;
   }
 
   .texto-capa h1 {
-    font-size: 1.5rem;
+    font-size: 2rem;
+  }
+
+  .texto-capa {
+    margin-top: 820px;
   }
 }
