@@ -6,8 +6,9 @@ const SecaoCapa = () => {
     <section className="secao-capa">
       <div className="capa center">
         <div className="texto-capa">
-          <p>Aqui, o doce é mais que um sabor, é uma</p>
-          <h1>experiência inesquecível.</h1>
+          <p>Descubra novos </p>
+          <h1>mundos</h1>
+          <p>em cada página.</p>
         </div>
       </div>
     </section>

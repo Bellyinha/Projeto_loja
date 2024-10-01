@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.book {
+  margin: 30px;
+}
+
+section {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  background-color: #babebf;
+}
+
+.divbo {
+  width: 12vw;
+  height: 18vw;
+}
+
+.produtos {
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
